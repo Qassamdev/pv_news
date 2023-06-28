@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76786899704",
+    "project_id": "pvnews-407de",
+    "storage_bucket": "pvnews-407de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76786899704:android:73d67d7203c179e7f6f90d",
+        "android_client_info": {
+          "package_name": "com.mrblab.newsfreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76786899704-l0ordm323n0jk60qe6mkvaej54j5kjuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2XHVNdVzBd-oeY5D5vY1yqSjyi7v3wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76786899704-l0ordm323n0jk60qe6mkvaej54j5kjuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
